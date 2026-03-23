@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/BadmintonAssistant/static/js/main.aea1baef.js",
+    "index.html": "/BadmintonAssistant/index.html",
+    "main.aea1baef.js.map": "/BadmintonAssistant/static/js/main.aea1baef.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.aea1baef.js"
+  ]
+}
